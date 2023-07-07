@@ -32,6 +32,7 @@ definition:
         - aws_elasticache_cluster
         - aws_elasticache_replication_group
         - aws_elasticsearch_domain
+        - aws_opensearch_domain
         - aws_elb
         - aws_emr_cluster
         - aws_emr_studio
